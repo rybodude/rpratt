@@ -1,2 +1,2 @@
-# rPratt_DataSci_Tutorial
+# reillypratt
 repository for Data Sci final project
